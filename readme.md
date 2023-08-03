@@ -2,7 +2,7 @@
 
 ## Description
 
-A large number of papers are submitted to arXiv every day, but there are very few that are truly innovative. This tool can help retrieve the papers from arXiv daily and use GPT-4 to generate summaries for each paper. **(Even though it's possible to directly crawl the abstracts from arXiv, I just want to use GPT-4, hahaha)**
+A large number of papers are submitted to arXiv every day, but there are very few that are truly innovative. This tool can help retrieve the papers from arXiv daily and use GPT-4 to generate summaries for each paper. **(Even though it's possible to directly crawl the abstracts from arXiv, I want to use GPT-4 just for fun, hahaha)**
 
 ## Usage
 The codes for crawling papers from arXiv are adopted from [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver).
